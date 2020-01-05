@@ -1,3 +1,13 @@
+// object
+var person = {
+    nama: "fauzan",
+    age: 22,
+    warnaRambut: "black"
+  };
+
+  console.log(person);
+  
+
 //Looping atau perulangan
 for (var i = 1; i <= 5; i++) {
 	var num = '';
